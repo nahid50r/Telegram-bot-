@@ -36,8 +36,8 @@ CONFIG_STEX_API_KEY = "YOUR_STEXSMS_API_KEY"        # <- paste your StexSMS API 
 CONFIG_STEX_BASE_URL = "YOUR_STEXSMS_BASE_URL"      # <- paste your StexSMS base URL (or set it in Admin > STEX CONFIG)
 CONFIG_ADMIN_ID = 8987847878
 # VOLTX SMS panel (second panel, same API style as Stex). Can also be set from Admin > STEX CONFIG > SET VOLT KEY / URL.
-CONFIG_VOLT_API_KEY = "MFRMXJPGLNG"
-CONFIG_VOLT_BASE_URL = "https://api.2oo9.cloud/MFRMXJPGLNG/tnevs/@public/api"
+CONFIG_VOLT_API_KEY = "MZ806L2CW1P"
+CONFIG_VOLT_BASE_URL = "https://api.2oo9.cloud/MZ806L2CW1P/tnevs/@public/api"
 CONFIG_OTP_GROUP_ID = -1004483533929
 CONFIG_OTP_GROUP_LINK = "https://t.me/Otp_Hub_rcv"
 # OTP FORWARDER BOT (@All_otp_rcv_bot): the ONLY bot that posts OTP cards into the OTP group.
